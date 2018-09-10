@@ -1,0 +1,11 @@
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\bin\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.deps.json
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\bin\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.runtimeconfig.json
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\bin\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.runtimeconfig.dev.json
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\bin\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.dll
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\obj\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\obj\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\obj\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\obj\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.AssemblyInfo.cs
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\bin\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.pdb
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\obj\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.dll
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQSender\RabbitMQSenderConsoleApp\RabbitMQSenderConsoleApp\obj\Debug\netcoreapp2.1\RabbitMQSenderConsoleApp.pdb

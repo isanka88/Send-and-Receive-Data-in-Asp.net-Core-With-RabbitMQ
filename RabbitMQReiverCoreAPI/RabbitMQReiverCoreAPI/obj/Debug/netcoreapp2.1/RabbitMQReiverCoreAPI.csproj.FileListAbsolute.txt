@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\bin\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.deps.json
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\bin\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.runtimeconfig.json
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\bin\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.runtimeconfig.dev.json
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\bin\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.dll
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.AssemblyInfo.cs
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\bin\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.pdb
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.dll
+C:\Users\HP\Downloads\RabbitMQ\010\RabbitMQReceiver\RabbitMQReiverCoreAPI\RabbitMQReiverCoreAPI\obj\Debug\netcoreapp2.1\RabbitMQReiverCoreAPI.pdb
